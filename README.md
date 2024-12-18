@@ -1,5 +1,5 @@
 # hello-world
 Getting Started on GitHub
 
-Author - Nirjala Pandey
+Author - Nirjala Pandey <br>
 Programming Student
